@@ -1,9 +1,9 @@
 ---
-title: Welcome to my website
+title: Bienvenue chez moi guys
 layout: page
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "assets/img/hamsterKing.jpeg"
 feature_text: |
-  ## Hello world
+  ## GUIGUI ZE KING IS HERE !
 ---
 
-There isn't much going on here yet, but watch this space
+Attention vous mettez les pieds ici à vos risques et périls

@@ -1,0 +1,61 @@
+
+
+[
+  
+  
+    
+    
+      {
+        "title": "Hello World",
+        "excerpt": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n",
+        "content": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n",
+        "url": "/general/2018/08/22/hello-world/"
+      },
+    
+      {
+        "title": "Guitou'Page",
+        "excerpt": "Je tape ici du texte pour voir si ça fonctionne bien.\nEt blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla.\n",
+        "content": "Je tape ici du texte pour voir si ça fonctionne bien.\nEt blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla.\n",
+        "url": "/technologie/2019/02/15/la-page-de-guigui/"
+      },
+    
+  
+  
+  
+  {
+    "title": "About this website",
+    "excerpt": "\n",
+    "content": "I’m not sure yet what this website is about, but I’m sure I’ll work it out soon.\n\n\n\n",
+    "url": "/about/"
+  },
+  
+  {
+    "title": "Categories",
+    "excerpt": "Category index\n",
+    "content": "\n",
+    "url": "/categories/"
+  },
+  
+  {
+    "title": "Blog",
+    "excerpt": "\n",
+    "content": "\n",
+    "url": "/blog/"
+  },
+  
+  {
+    "title": "Bienvenue chez moi guys",
+    "excerpt": "\n",
+    "content": "Attention vous mettez les pieds ici à vos risques et périls\n",
+    "url": "/"
+  },
+  
+  {
+    "title": "Ma page perso",
+    "excerpt": "\n",
+    "content": "\n",
+    "url": "/perso/"
+  }
+  
+]
+
