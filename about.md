@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About this website
+title: About
+copyright: Cette page n'est pas protégée
 ---
 
 I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
