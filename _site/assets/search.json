@@ -13,10 +13,17 @@
       },
     
       {
-        "title": "Guitou'Page",
-        "excerpt": "Je tape ici du texte pour voir si ça fonctionne bien.\nEt blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla.\n",
-        "content": "Je tape ici du texte pour voir si ça fonctionne bien.\nEt blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla.\n",
-        "url": "/technologie/2019/02/15/la-page-de-guigui/"
+        "title": "Test",
+        "excerpt": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n",
+        "content": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n",
+        "url": "/general/2019/01/10/test/"
+      },
+    
+      {
+        "title": "Guitou's Page",
+        "excerpt": "Je tape ici du texte pour voir si ça fonctionne bien.\nEt blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla.\n\n",
+        "content": "Je tape ici du texte pour voir si ça fonctionne bien.\nEt blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla blablabla blabla.\n\n\n\n",
+        "url": "/technologie/2020/02/14/la-page-de-guitou/"
       },
     
   
@@ -25,7 +32,7 @@
   {
     "title": "About this website",
     "excerpt": "\n",
-    "content": "I’m not sure yet what this website is about, but I’m sure I’ll work it out soon.\n\n\n\n",
+    "content": "I’m not sure yet what this website is about, but I’m sure I’ll work it out soon.\n\n",
     "url": "/about/"
   },
   
